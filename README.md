@@ -1,1 +1,2 @@
 # dice-simulator
+Dise Simulator
